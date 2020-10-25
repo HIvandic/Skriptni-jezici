@@ -1,2 +1,2 @@
 # Skriptni-jezici
-Laboratorijske vjezbe iz kolegija Skriptni jezici
+Laboratorijske vježbe iz kolegija Skriptni jezici
